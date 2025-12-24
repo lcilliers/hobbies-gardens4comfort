@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'My plant journey'
-copyright = '2023, Gardens4Comfort'
+copyright = '2025, Gardens4Comfort'
 author = 'le Roux Cilliers'
 
 # The full version, including alpha/beta/rc tags

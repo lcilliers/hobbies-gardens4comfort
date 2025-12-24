@@ -7,8 +7,8 @@ _build/
 Migration/
 RSThtmlCreate/
 
-# Local temporary image staging folder
-Images/
+# Local temporary image staging folder (root level only)
+/Images/
 
 # Python
 __pycache__/
