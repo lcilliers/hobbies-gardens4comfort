@@ -1,15 +1,25 @@
 ﻿pelargonium
-=============
-               
+=============
+
+
+               
 geranium, pelargonium
------------------------
-These are mainly summer-flowering perennials.  They are evergreen, often cultivated as annuals.  The leaves if crushed may either be rose, lemon or peppermint scented and are toothed, lobed, scalloped or broad.  The flowers will bloom in various colours.  They are frost tender, min 5C and they dislike very hot, humid conditions.  Well drained, neutral to alkaline soil is preferred as is a sunny site.
-
+-----------------------
+
+
+These are mainly summer-flowering perennials.  They are evergreen, often cultivated as annuals.  The leaves if crushed may either be rose, lemon or peppermint scented and are toothed, lobed, scalloped or broad.  The flowers will bloom in various colours.  They are frost tender, min 5C and they dislike very hot, humid conditions.  Well drained, neutral to alkaline soil is preferred as is a sunny site.
+
+
 Classification
-----------------
-
- - Common Names: geranium, pelargonium  - Family: Geraniaceae  - Variety: Horison Series
-
+----------------
+
+
+
+ - Common Names: geranium, pelargonium 
+ - Family: Geraniaceae 
+ - Variety: Horison Series
+
+
 +--------------------------------------------------+
 |.. figure:: /Images/Image4.JPG                    |
 |   :width: 250px                                  |
@@ -18,24 +28,31 @@ Classification
 |                                                  |
 |   Deep Red Pelargonium                           |
 +--------------------------------------------------+
-
+
+
 Propagation Notes
--------------------
-
- - Plant Type: Perennial  - Propagation: Cuttings  - Hardiness: Tender H7 - H10 (+0)  - Flowering Season: Summer to autumn 
-https://geraniumguide.com/difference-between-geraniums-and-pelargoniums/
-2023-03-19: found some geraniums that overwintered, checked out there rootstocks, tidy and planted them in a light mix of vermilulite and soil to see if i can encourage root growth
-
+-------------------
+
+
+
+ - Plant Type: Perennial 
+ - Propagation: Cuttings 
+ - Hardiness: Tender H7 - H10 (+0) 
+ - Flowering Season: Summer to autumn 
+
+https://geraniumguide.com/difference-between-geraniums-and-pelargoniums/
+
+2023-03-19: found some geraniums that overwintered, checked out there rootstocks, tidy and planted them in a light mix of vermilulite and soil to see if i can encourage root growth
+
+
 +--------------------------------------------------+--------------------------------------------------+
 |.. figure:: /Images/Image43.png                   |.. figure:: /Images/Image93.JPG                   |
 |   :width: 250px                                  |   :width: 250px                                  |
 |                                                  |                                                  |
-|   A83078DF-E043-4A54-97C8-C5A677168147.png: 2023-11-29|   DSC02192.JPG: 2002-07-18                       |
-|                                                  |                                                  |
-|   trailing geranium                              |   Pelargonium                                    |
-|                                                  |                                                  |
+|   Trailing geranium - 2023-11-29                 |   Pelargonium - 2002-07-18                       |
 +--------------------------------------------------+--------------------------------------------------+
-
+
+
 +--------------------------------------------------+--------------------------------------------------+
 |.. figure:: /Images/Image107.JPG                  |.. figure:: /Images/Image220.jpg                  |
 |   :width: 250px                                  |   :width: 250px                                  |
@@ -45,7 +62,8 @@ Propagation Notes
 |   White single geranium                          |   Pink pelargonium                               |
 |                                                  |                                                  |
 +--------------------------------------------------+--------------------------------------------------+
-
+
+
 +--------------------------------------------------+--------------------------------------------------+
 |.. figure:: /Images/Image309.jpg                  |.. figure:: /Images/Image921.jpg                  |
 |   :width: 250px                                  |   :width: 250px                                  |
@@ -55,7 +73,8 @@ Propagation Notes
 |   pelargoniums in window sill                    |                                                  |
 |                                                  |                                                  |
 +--------------------------------------------------+--------------------------------------------------+
-
+
+
 +--------------------------------------------------+--------------------------------------------------+
 |.. figure:: /Images/Image1244.jpg                 |.. figure:: /Images/Image1296.JPG                 |
 |   :width: 250px                                  |   :width: 250px                                  |
@@ -65,7 +84,8 @@ Propagation Notes
 |   Pelargonium                                    |   white single pelargonium                       |
 |                                                  |                                                  |
 +--------------------------------------------------+--------------------------------------------------+
-
+
+
 +--------------------------------------------------+--------------------------------------------------+
 |.. figure:: /Images/Image1454.jpg                 |.. figure:: /Images/Image1472.jpg                 |
 |   :width: 250px                                  |   :width: 250px                                  |
@@ -75,7 +95,8 @@ Propagation Notes
 |                                                  |                                                  |
 |                                                  |                                                  |
 +--------------------------------------------------+--------------------------------------------------+
-
+
+
 +--------------------------------------------------+--------------------------------------------------+
 |.. figure:: /Images/Image1602.jpg                 |.. figure:: /Images/Image1655.JPG                 |
 |   :width: 250px                                  |   :width: 250px                                  |
@@ -85,7 +106,8 @@ Propagation Notes
 |   Pink pelargonium                               |   geranium, pelargonium                          |
 |                                                  |                                                  |
 +--------------------------------------------------+--------------------------------------------------+
-
+
+
 +--------------------------------------------------+--------------------------------------------------+
 |.. figure:: /Images/Image1667.jpg                 |.. figure:: /Images/Image1729.jpg                 |
 |   :width: 250px                                  |   :width: 250px                                  |
@@ -95,7 +117,8 @@ Propagation Notes
 |   Geranium                                       |   GERANIUM MACRORRHIZUM                          |
 |                                                  |                                                  |
 +--------------------------------------------------+--------------------------------------------------+
-
+
+
 +--------------------------------------------------+--------------------------------------------------+
 |.. figure:: /Images/Image1823.JPG                 |.. figure:: /Images/Image1857.jpg                 |
 |   :width: 250px                                  |   :width: 250px                                  |
@@ -105,7 +128,8 @@ Propagation Notes
 |   geranium, pelargonium                          |   geranium plant box                             |
 |                                                  |                                                  |
 +--------------------------------------------------+--------------------------------------------------+
-
+
+
 +--------------------------------------------------+--------------------------------------------------+
 |.. figure:: /Images/Image1872.jpg                 |.. figure:: /Images/Image1965.JPG                 |
 |   :width: 250px                                  |   :width: 250px                                  |
@@ -115,7 +139,8 @@ Propagation Notes
 |   pelargonium in pot                             |   geranium, pelargonium                          |
 |                                                  |                                                  |
 +--------------------------------------------------+--------------------------------------------------+
-
+
+
 +--------------------------------------------------+--------------------------------------------------+
 |.. figure:: /Images/Image1981.JPG                 |.. figure:: /Images/Image2056.JPG                 |
 |   :width: 250px                                  |   :width: 250px                                  |
@@ -125,16 +150,25 @@ Propagation Notes
 |   geranium, pelargonium                          |   geranium, pelargonium                          |
 |                                                  |                                                  |
 +--------------------------------------------------+--------------------------------------------------+
-               
+
+               
 Ivy leaf pelargonium, Geranium
---------------------------------
-This is a half-hardy annual, The leaves are ivy-shaped and delicate they are either rich green or variegated. The flowers are dainty and bloom in white, pink or red.
-
+--------------------------------
+
+
+This is a half-hardy annual, The leaves are ivy-shaped and delicate they are either rich green or variegated. The flowers are dainty and bloom in white, pink or red.
+
+
 Classification
-----------------
-
- - Common Names: Ivy leaf pelargonium, Geranium  - Family: peltatum  - Variety: 
-
+----------------
+
+
+
+ - Common Names: Ivy leaf pelargonium, Geranium 
+ - Family: peltatum 
+ - Variety: 
+
+
 +--------------------------------------------------+
 |.. figure:: /Images/Image704.JPG                  |
 |   :width: 250px                                  |
@@ -143,13 +177,21 @@ Classification
 |                                                  |
 |   Ivy leaf pelargonium, Geranium                 |
 +--------------------------------------------------+
-
+
+
 Propagation Notes
--------------------
-
- - Plant Type: Perennial  - Propagation:   - Hardiness:   - Flowering Season:  
-
-
+-------------------
+
+
+
+ - Plant Type: Perennial 
+ - Propagation:  
+ - Hardiness:  
+ - Flowering Season:  
+
+
+
+
 +--------------------------------------------------+--------------------------------------------------+
 |.. figure:: /Images/Image705.jpg                  |.. figure:: /Images/Image1312.JPG                 |
 |   :width: 250px                                  |   :width: 250px                                  |
@@ -159,7 +201,8 @@ Propagation Notes
 |   Ivy leaf geranium flower                       |   Ivy leaf pelargonium, Geranium                 |
 |                                                  |                                                  |
 +--------------------------------------------------+--------------------------------------------------+
-
+
+
 +--------------------------------------------------+
 |.. figure:: /Images/Image1881.JPG                 |
 |   :width: 250px                                  |
@@ -169,16 +212,25 @@ Propagation Notes
 |   Ivy leaf pelargonium, Geranium                 |
 |                                                  |
 +--------------------------------------------------+
-               
+
+               
 Pelargonium
--------------
-bought in plant
-
+-------------
+
+
+bought in plant
+
+
 Classification
-----------------
-
- - Common Names: Pelargonium  - Family: Ashfield monarch  - Variety: 
-
+----------------
+
+
+
+ - Common Names: Pelargonium 
+ - Family: Ashfield monarch 
+ - Variety: 
+
+
 +--------------------------------------------------+
 |.. figure:: /Images/Image543.jpg                  |
 |   :width: 250px                                  |
@@ -187,13 +239,21 @@ Classification
 |                                                  |
 |   pelargonium in pots young plants               |
 +--------------------------------------------------+
-
+
+
 Propagation Notes
--------------------
-
- - Plant Type: annual  - Propagation:   - Hardiness:   - Flowering Season:  
-
-
+-------------------
+
+
+
+ - Plant Type: annual 
+ - Propagation:  
+ - Hardiness:  
+ - Flowering Season:  
+
+
+
+
 +--------------------------------------------------+--------------------------------------------------+
 |.. figure:: /Images/Image723.jpg                  |.. figure:: /Images/Image821.jpg                  |
 |   :width: 250px                                  |   :width: 250px                                  |
@@ -203,7 +263,8 @@ Propagation Notes
 |   pelargonium in pot                             |   Pink pelargonium                               |
 |                                                  |                                                  |
 +--------------------------------------------------+--------------------------------------------------+
-
+
+
 +--------------------------------------------------+--------------------------------------------------+
 |.. figure:: /Images/Image2055.jpg                 |.. figure:: /Images/Image2058.jpg                 |
 |   :width: 250px                                  |   :width: 250px                                  |
@@ -213,7 +274,8 @@ Propagation Notes
 |   pelargonium                                    |   perlargonium in shade                          |
 |                                                  |                                                  |
 +--------------------------------------------------+--------------------------------------------------+
-
+
+
 +--------------------------------------------------+
 |.. figure:: /Images/Image2296.jpg                 |
 |   :width: 250px                                  |
@@ -223,16 +285,25 @@ Propagation Notes
 |   pelargonium                                    |
 |                                                  |
 +--------------------------------------------------+
-               
+
+               
 Pelargonium trailing white
-----------------------------
-Pelargonium Peltatum Tornado White
-
+----------------------------
+
+
+Pelargonium Peltatum Tornado White
+
+
 Classification
-----------------
-
- - Common Names: Pelargonium trailing white  - Family:   - Variety: Peltatum Tornado White
-
+----------------
+
+
+
+ - Common Names: Pelargonium trailing white 
+ - Family:  
+ - Variety: Peltatum Tornado White
+
+
 +--------------------------------------------------+
 |.. figure:: /Images/Image1464.jpg                 |
 |   :width: 250px                                  |
@@ -241,9 +312,16 @@ Classification
 |                                                  |
 |   Pelargonium Peltatum Tornado White             |
 +--------------------------------------------------+
-
+
+
 Propagation Notes
--------------------
-
- - Plant Type: Trailing  - Propagation:   - Hardiness:   - Flowering Season: Mid summer 
-
+-------------------
+
+
+
+ - Plant Type: Trailing 
+ - Propagation:  
+ - Hardiness:  
+ - Flowering Season: Mid summer 
+
+

@@ -122,9 +122,6 @@ Dianthus: areanarius f nanus Little maiden; caryopthyllus  Chabaud La France
 .. image:: /Images/Image2564.JPG                
     :scale: 50
 
-.. image:: /Images/Image140.JPG                
-    :scale: 50
-
 1999-11-20: From very early on gardening in the UK emphasised the need to have some form of protection for seedlings and getting some plants through the winter.  I discovered a delapidated greenhouse in the garden and then built my first cold frame from the windows out of the building works.
 
 .. image:: /Images/Image2399.jpg
