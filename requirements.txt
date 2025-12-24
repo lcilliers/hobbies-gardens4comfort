@@ -1,0 +1,8 @@
+# Sphinx documentation generator
+sphinx>=7.0.0
+
+# Read the Docs Sphinx theme
+sphinx-rtd-theme>=2.0.0
+
+# Optional: Auto-section label extension (already configured in conf.py)
+# No additional packages needed for sphinx.ext.autosectionlabel

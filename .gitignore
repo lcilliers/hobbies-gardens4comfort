@@ -1,0 +1,53 @@
+# Sphinx build output
+Build/
+_build/
+.doctrees/
+
+# Excluded folders (no longer required)
+Migration/
+RSThtmlCreate/
+
+# Local temporary image staging folder
+Images/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+
+# Logs
+Logs/
+*.log
+ErrorLog.txt
+ProcessLog.txt
+Errors.txt
+
+# IDE
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+
+# Personal notes (optional - review before committing)
+notes for development of my plants story.txt
+website ideas and thoughs.txt
+
+# Database credentials (if any)
+*.config.local
