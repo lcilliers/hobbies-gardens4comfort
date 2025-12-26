@@ -1,7 +1,8 @@
-﻿Weather
-=========
+﻿Weather notes
+=============
+
 .. toctree::
   :maxdepth: 1
-  :caption: Weather
+  :caption: Weather notes
 
-  Weather_notes
+Weather_notes

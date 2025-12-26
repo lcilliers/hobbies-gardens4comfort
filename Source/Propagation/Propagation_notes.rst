@@ -1,6 +1,10 @@
 ﻿Propagation
 =============
 
+2025-12-26: The greenhouse and over wintering cold frames are all full, and there are not a lot of spaces for new plants and growth.  I will need to be very selective with what I am propagating and sowing.
+
+2025-12=26: The new season is approaching.  I realise all the autumn sowing for next year is not done, but I am determined to turn this neglect and lack of enthusiasm around and start to plan for 2026.
+
 2024-10-05: I stepped away from propagating and keeping track for a few months to get through the rebuilding of the greenhouse.  Now that it is all done, and I have a safe place for my plants I can again turn my attention to what has happened with all the growing activity from the current year sowing, and start to plan for next year.
 
 2024-06-03: It turns out that the sowings in April that was placed in the greenhouse mostly made it through.  throughout May I managed to transplant a lot of plants and got some out in the garden.  I also decided the buy in some seedlings for busy lilies and geraniums, and laterly also got a tray of summer plugs to plant out when the nigelias are done.

@@ -1,6 +1,10 @@
 ﻿The plantbook
 ===============
 
+2025-12-26: I managed to switch this plantbook to a new host and platform for updating.  It should be easier to update and more accessible anywhere.
+
+2025-12-26: I am sad to say that more than a year past with no entries in the plantbook. I lost my way, in the garden and in the book. This last year has been a strange one. I have sowen no seed, only propagated occasionally and only focussed on keeping teh garden going with a minimum of input and dedication.
+
 2024-10-23: Working on the plantbook, refining and updating the information.  It is more and more telling a story.  I think I somehow need to change the angle of the plantbook to give a voice to the plants rather than to tell my story. I gathered many images over the years and perhaps I need to spend more time to wove the story of the image into the narative, rather than just using the image for plant identification.  I also need to reduce the number of duplicate and redudant images.
 
 2024-10-04: A few months later. since July my entire focus was on rebuilding the greenhouse, so little happened in my plantbook.  However, through the months I realised that I need to get bak to my book, if it is only for reminding on of the plant names and details.  Going into the winter and next season, I hope to get back to updating my plantbook.
